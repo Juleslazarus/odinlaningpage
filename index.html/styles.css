@@ -1,0 +1,75 @@
+/* styles for langing page hw project */ 
+* {
+    box-sizing: border-box;
+    margin: 0px; 
+    padding: 0px; 
+    font-family: 'roboto'; 
+}
+.headerborder {
+    background-color: #0e2433; /*dark blue header*/ 
+    margin-bottom: 40px; 
+    padding-bottom: 150px; 
+    padding-right: 140px; 
+    padding-left: 140px; 
+}
+
+.headerstyles,
+.header,
+.navbar,
+.navbutton,
+.headercontentstyles {
+    display: inline;
+    color: white;  
+}
+.headercontent {
+
+}
+
+.header {
+     
+    margin-right: 
+}
+.navbar {
+    margin-left: 1000px; 
+    
+}
+.navbutton {
+    padding: 12px; 
+}
+.headercontentstyles {
+    display: flex; 
+    gap: 100px
+}
+.headertext {
+    margin-top: 80px; 
+    
+}
+.imageplaceholder {
+    margin-left: 300px; 
+    margin-top: 200px; 
+}
+.headersubtextstyle {
+    color: lightgrey; 
+    margin: 
+    display: flex; 
+}
+.headersubtext {
+    display: flex; 
+    margin-top: -60px; 
+}
+.hsignupbutton {
+    color: white;
+    text-decoration: none;
+    background-color: #006ee6; 
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    padding-right: 30px; 
+    padding-left: 30px; 
+    border-radius: 12%; 
+    font-weight: 700; 
+    font-size: 20px; 
+}
+.hsignupbuttonstyles {
+    margin-top: 20px; 
+
+}
